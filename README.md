@@ -1,5 +1,5 @@
 # 👾 Object Oriented Programming
-OOP Course @ Sapienza.
+Project for the OOP Course (Java) @ Sapienza.
 
 # Minizak
 Minizak is a text adventure. The world is dynamically generated using a file (.game) that must have a specific format.
