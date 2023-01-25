@@ -10,4 +10,4 @@ The project includes detailed JavaDoc.
 All the requirements for the projects are listed in the pdf file. It was translated using google from italian to english for readability purposes.
 
 # 📈 Score
-The project was rated 30 cum laude/30.
+After an oral exam the project was rated 30 cum laude.
